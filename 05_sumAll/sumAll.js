@@ -12,7 +12,7 @@ const sumAll = function(num1, num2) {
                 return num2;
             }
     } else {
-            console.log('ERROR');
+            return 'ERROR';
         }
 }
 
